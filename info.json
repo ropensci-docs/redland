@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7d286a5f55e1e5ee6284e61435a6368ef7009c4e",
+    "author": "gothub <slaughter@nceas.ucsb.edu>",
+    "time": "2022-01-19 23:46:10",
+    "files": 1,
+    "merge": false,
+    "message": "Spelling change\n\nIssue #97\n"
+  },
+  "repo": "https://github.com/ropensci/redland-bindings",
+  "pkg": "redland"
+}

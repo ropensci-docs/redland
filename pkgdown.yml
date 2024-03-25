@@ -1,0 +1,10 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  redland_overview: redland_overview.html
+last_built: 2024-03-25T04:38Z
+urls:
+  reference: https://docs.ropensci.org/redland/reference
+  article: https://docs.ropensci.org/redland/articles
+

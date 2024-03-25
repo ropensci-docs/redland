@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8f0d0d569372501126e3c8bc0cc3497f363eec7a",
+    "author": "Matt Jones <gitcode@magisa.org>",
+    "time": "2024-02-24 00:19:03",
+    "files": 1,
+    "merge": false,
+    "message": "Final update of test platforms for comments.\n"
+  },
+  "repo": "https://github.com/ropensci/redland-bindings",
+  "pkg": "redland"
+}

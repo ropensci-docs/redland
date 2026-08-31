@@ -1,0 +1,40 @@
+# Set the query-specified offset on results.
+
+Set the query-specified offset on results.
+
+## Usage
+
+``` r
+librdf_query_set_offset ( query,
+  offset,
+  .copy )
+```
+
+## Arguments
+
+- query:
+
+  librdf_query query object ("\_p_librdf_query")
+
+- offset:
+
+  offset for results, \>=0 to set an offset, \<0 to have no offset
+  ("integer")
+
+- .copy:
+
+  NA
+
+## Value
+
+integer
+
+## References
+
+<https://librdf.org/docs/>
+
+## See also
+
+This R function is a wrapper function that directly calls the the
+Redland RDF C libraries. For more information about Redland RDF, view
+the online documentation indicated in the 'References' section.

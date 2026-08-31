@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "62af8690663c136be09227f946ef6aa90c47cbb4",
+    "author": "Matt Jones <gitcode@magisa.org>",
+    "time": "2025-12-09T21:59:18Z",
+    "files": 1,
+    "merge": false,
+    "message": "Bump release date in DESCRIPTION\n"
+  },
+  "repo": "https://github.com/ropensci/redland-bindings",
+  "pkg": "redland",
+  "time": "2026-08-31T10:13:32Z"
+}

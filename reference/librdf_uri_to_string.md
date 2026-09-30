@@ -1,0 +1,29 @@
+# Format the URI as a string.
+
+Format the URI as a string.
+
+## Usage
+
+``` r
+librdf_uri_to_string ( uri )
+```
+
+## Arguments
+
+- uri:
+
+  librdf_uri object ("\_p_librdf_uri_s")
+
+## Value
+
+character
+
+## References
+
+<https://librdf.org/docs/>
+
+## See also
+
+This R function is a wrapper function that directly calls the the
+Redland RDF C libraries. For more information about Redland RDF, view
+the online documentation indicated in the 'References' section.
